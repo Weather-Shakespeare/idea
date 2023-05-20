@@ -1,8 +1,8 @@
 # IDEA Tracking
 
-## ISSUE 使用
 大家好，這個 REPO 是一個討論區，我們將用來記錄我們的想法、實作上遇到的問題如何化解，有任何遇到的想法或者是問題，都以 "**發布 ISSUE**" 的模式來進行，因此以下會提供 ISSUE 的模板。
 
+## IDEA 使用
 ### Usage
 ```md
 ---
@@ -35,8 +35,43 @@ Explain the motivation behind this idea. What problem does it solve? What benefi
 
 ```
 
-## 會議記錄用
-另外這個 REPO 還有最重要的功能，那就是會議紀錄，為了確保我們討論的結果都能得以保留因此我們也將會保留我們的會議記錄於此，因此以下也會提供 "**會議記錄**" 的模板。
+## DISCUSSION 使用
+
+### Usage
+```md
+---
+name: Discussion
+about: Start a new discussion or topic
+title: "[Discussion]"
+
+---
+
+**Discussion Topic**
+Provide a clear and concise description of the discussion topic.
+
+**Background**
+Explain the background or context of the discussion. What is the problem or subject of interest?
+
+**Questions or Points**
+Outline the specific questions or points you would like to discuss. What aspects do you want to explore or address?
+
+**Discussion Goals**
+Specify the goals or outcomes you hope to achieve through this discussion. What do you expect to learn or decide?
+
+**Additional Notes**
+(Optional) Add any additional notes or context about the discussion.
+
+**Participants**
+(Optional) Specify any individuals or teams you would like to invite to participate in the discussion.
+
+**Labels**
+(Optional) Add relevant labels to categorize the discussion (e.g., brainstorming, decision-making, feedback).
+
+**Attachments**
+(Optional) Attach any relevant files or images related to the discussion.
+```
+
+## MEETING 使用
 
 ### Usage
 ```md
@@ -89,7 +124,7 @@ title: "[Meeting Notes]"
 
 ## LICENSE
 
-Released under [MIT](./LICENSE) by @Weather-Shakespeare 
+Released under [MIT](./LICENSE) by [@Weather-Shakespeare](https://github.com/Weather-Shakespeare)   
 
 This software can be modified and reused without restriction.
 The original license must be included with any copies of this software.
